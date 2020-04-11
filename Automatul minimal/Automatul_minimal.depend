@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555686623 source:d:\fac\automatul_minimal\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
